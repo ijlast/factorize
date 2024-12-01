@@ -13,7 +13,7 @@ by default:
 # Running the application
 * Install NodeJS: https://nodejs.org/ (tested with 22.11.0)
 * Download the source code
-* Navigate to the directory containing *package.json* and type **npm run**
+* Navigate to the directory containing *package.json* and type **npm start**
 * Open a browser (that supports MathML) at the http link displayed in the output (default: http://localhost:8080/?index=0)
 
 # How it Works
